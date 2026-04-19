@@ -2,7 +2,7 @@ Recolor Tool
 
 Dieses Tool ermöglicht es dir, Texturen in deinem Minecraft Texturepack mit einer benutzerdefinierten Farbe zu recolorieren. Es ist einfach zu bedienen und funktioniert mit PNG-Dateien. Bitte beachte die folgenden Schritte und Hinweise, um das Programm korrekt zu nutzen.
 
-🚀 Anwendung
+Anwendung
 
 1. Vorbereitung:
 
@@ -51,7 +51,7 @@ Nachdem das Tool die Texturen verarbeitet hat, findest du die bearbeiteten Textu
 
 
 
-🛠️ Voraussetzungen
+Voraussetzungen
 
 Um das Tool erfolgreich auszuführen, sind die folgenden Programme und Module erforderlich:
 
